@@ -1,6 +1,12 @@
-# global
+.DS_Store
 .idea
 
 # dotnet
-**/dotnet/**/bin
-**/dotnet/**/obj
+**/dotnet/*/**/bin
+**/dotnet/*/**/obj
+
+# kotlin / java
+**/kotlin/**/.gradle/
+**/kotlin/**/build/
+!**/kotlin/*/**/src/**/build
+!**/kotlin/*/**/test/**/build
