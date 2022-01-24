@@ -1,0 +1,6 @@
+# global
+.idea
+
+# dotnet
+**/dotnet/**/bin
+**/dotnet/**/obj
