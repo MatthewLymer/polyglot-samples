@@ -10,3 +10,7 @@
 **/kotlin/**/build/
 !**/kotlin/*/**/src/**/build
 !**/kotlin/*/**/test/**/build
+
+# typescript / javascript
+**/typescript/**/node_modules
+**/typescript/**/dist
